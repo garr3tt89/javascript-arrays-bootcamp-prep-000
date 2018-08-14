@@ -8,6 +8,7 @@ return [array, element]
 }
 function descructivelyAddElementToBeginningOfArray(array, element){
  return array, element
+}
 function descructivelyAddElementToBeginningOfArray(array, element){
   array.unshift(element)
   return array
@@ -30,3 +31,4 @@ function removeElementFromBeginningOfArray(array){
 function removeElementFromEndOfArray(array){
   array.pop()
   return array
+}
