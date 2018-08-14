@@ -5,9 +5,6 @@ return [array, element]
   return new_array
 }
 function descructivelyAddElementToBeginningOfArray(array, element){
- return array, element
-}
-function descructivelyAddElementToBeginningOfArray(array, element){
   array.unshift(element)
   return array
 }
